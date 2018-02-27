@@ -1,4 +1,4 @@
 class Test{
   Something Changed . .
-  Changed More . .
+  Changed More . . .
 }
